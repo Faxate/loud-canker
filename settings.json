@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "Jarvis",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "blupblup-5mL7.aternos.me",
+    "port": 22920,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,9 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Fax loves to lunge idk why",
+        "Fax loves manepear",
+        "Fax's idol is manepear, the gunry lion"
       ]
     },
     "chat-log": true,
